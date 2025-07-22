@@ -1,6 +1,6 @@
-##Process, Analyze, and Summarize Data with Spark and PySpark
+## Process, Analyze, and Summarize Data with Spark and PySpark
 
-#Project Description
+# Project Description
 
 Every day, companies worldwide process billions of records using PySpark. As big data grows, mastering tools like PySpark is no longer optional—it’s essential.
 
@@ -14,7 +14,7 @@ Aggregate and summarize data efficiently
 
 Visualize insights using practical, real-world examples
 
-#Project Overview
+# Project Overview
 
 This project focuses on processing and analyzing employee data with PySpark. 
 
@@ -24,7 +24,7 @@ Explore employee demographics and salary data
 
 Aggregate data to uncover meaningful patterns and insights
 
-#About the Dataset
+# About the Dataset
 
 employees.csv: Employee details including employee numbers, names, birth dates, hire dates, and more.
 
