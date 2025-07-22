@@ -2,8 +2,6 @@
 
 # Project Description
 
-Every day, companies worldwide process billions of records using PySpark. As big data grows, mastering tools like PySpark is no longer optional—it’s essential.
-
 Set up a PySpark environment
 
 Load, explore, and clean large datasets
